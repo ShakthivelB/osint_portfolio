@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1145 1145">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="572.5" cy="572.5" r="572.5" />
+    </clipPath>
+  </defs>
+  <image href="logo.webp" width="1145" height="1374" preserveAspectRatio="xMidYMin slice" clip-path="url(#circle)" />
+</svg>
